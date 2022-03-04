@@ -21,7 +21,7 @@ install_requires = [
     'copulas>=0.6.1,<0.7',
     'ctgan>=0.5.1,<0.6',
     'deepecho>=0.3.0.post1,<0.4',
-    'rdt>=0.6.2,<0.7',
+    'rdt>=0.6.4.dev0,<0.7',
     'sdmetrics>=0.4.1,<0.5',
 ]
 
